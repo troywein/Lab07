@@ -18,6 +18,6 @@ int main() {
 
 
     // TODO 1.0
-    // Call cubeIt() with a value of 3 and print it
+    // Call cubeIt() with a value of 3 and print the result
 
 }
