@@ -17,11 +17,7 @@ int main() {
     printf("Classroom.\n");
 
 
-    // the following lines verify that we can access cube function in
-    // defined in myFuncts.c and declared in myFuncts.h
-    printf("The cube of 50 is %ld", cubeIt(50));
-
     // TODO 1.0
-    // Call cubeIt() after getting a value from the user with scanf()
+    // Call cubeIt() with a value of 3 and print it
 
 }
