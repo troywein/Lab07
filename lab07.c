@@ -20,4 +20,10 @@ int main() {
     // TODO 1.0
     // Call cubeIt() with a value of 3 and print the result
 
+
+    // The following line prevents the debugging/run window
+    // from immediately closeing.  You will need to hit enter
+    // to close the terminal/cmd window
+    char c = '\0';scanf("%c", &c);
+    return 0;
 }
